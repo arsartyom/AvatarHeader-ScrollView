@@ -10,12 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    lazy var containerSize  = CGSize(width: self.view.frame.width, height: self.view.frame.height + 500)
+    lazy var containerSize  = CGSize(width: self.view.frame.width, height: self.view.frame.height+100)
     
     lazy var scrollView: UIScrollView  = {
         var scrollView = UIScrollView(frame: .zero)
         scrollView.backgroundColor = .systemBackground
-        scrollView.frame = view.layoutMarginsGuide.layoutFrame
+        scrollView.frame = view.bounds
         scrollView.contentSize = containerSize
         return scrollView
     }()
@@ -34,7 +34,7 @@ class ViewController: UIViewController {
         configureHeadImage()
         
         
-        
+            
         
         
         
