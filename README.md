@@ -1,2 +1,3 @@
-# JsonLearning
-![dsadas](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F5%2F2019%2F07%2FMan-Silhouette.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fblog%2Ftake-pictures-moon&tbnid=w2DfUiGh9nbK5M&vet=12ahUKEwjKgLqO7IDvAhXVtSoKHcMgBDAQMygDegUIARCwAQ..i&docid=gnBbb_yW79vLUM&w=1024&h=683&q=picture&safe=strict&ved=2ahUKEwjKgLqO7IDvAhXVtSoKHcMgBDAQMygDegUIARCwAQ)
+# AvatarHeader-ScrollView
+В результате получается примерно следующе ScrollView:   
+<img src = "photo.png" width = 250 />
